@@ -15,5 +15,5 @@
 --- 
 ### Ordered List 
 1. Punkt 1
-2. Punkt 2
-3. Punkt 3
+1. Punkt 2
+1. Punkt 3
