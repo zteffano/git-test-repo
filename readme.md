@@ -15,3 +15,5 @@ print("Hello Github")
 - B3
 
 >Super Duper
+
+> 👍 Indsæt direkte fra github
